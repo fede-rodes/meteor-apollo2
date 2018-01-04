@@ -31,6 +31,9 @@ yarn add apollo-client apollo-link apollo-link-http apollo-cache-inmemory apollo
 
 Read **[the docs](http://dev.apollodata.com/core/meteor.html)**
 
+### Example usage
+See the following project for example usage: [https://github.com/fede-rodes/meteor-apollo-starter-kit](https://github.com/fede-rodes/meteor-apollo-starter-kit)
+
 # Package dev
 
 ## Tests
