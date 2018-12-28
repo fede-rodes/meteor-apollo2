@@ -1,5 +1,7 @@
 # Patch for [https://github.com/apollographql/meteor-integration](https://github.com/apollographql/meteor-integration) until the official version is released.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/fede-rodes/meteor-apollo2.svg)](https://greenkeeper.io/)
+
 > **Note: This package supports Apollo Client 2.x, to use Apollo Client 1.x, check out on the version `1.0.0`**
 
 > A great alternative to this package is [ddp-apollo](https://github.com/Swydo/ddp-apollo)
